@@ -126,12 +126,13 @@ int main(void)
 
 OFF:
 
-<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/f7cdb632-fdf6-4f8c-b30f-1423befc40fe" />
+<img width="1600" height="724" alt="1 ss" src="https://github.com/user-attachments/assets/b26a48a2-e0b8-46a0-beee-43bf77181d1c" />
+
 
 
 ON:
 
-<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/a1f926e4-6f3c-4a73-82b4-9b488a917472" />
+<img width="1599" height="1204" alt="2ss" src="https://github.com/user-attachments/assets/bcde47bf-7883-4ee5-82e1-4fd5b073dbb4" />
 
 
 
